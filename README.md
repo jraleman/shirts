@@ -1,7 +1,3 @@
-# Copypasta
+# Shirts
 
-...
-
-## Sources
-
-[Building your first Atom plugin - johndbritton](https://blog.github.com/2016-08-19-building-your-first-atom-plugin/)
+Some designed shirts, some ideas and some experimental stuff you can find here.
